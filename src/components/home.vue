@@ -5,8 +5,8 @@
           md:grid-cols-medium md:pt-40 md:gap-x-16
         ">
         <div class="grid grid-cols-max-content gap-y-6 ">
-          <a href="#" class="dark:text-white" ><i class="uil uil-linkedin-alt text-xl dark:text-white"></i></a>
-          <a href="#" class="dark:text-white" ><i class="uil uil-github-alt text-xl"></i></a>
+          <a href="https://www.linkedin.com/in/panggih-mario-51b368153/" target="_blank" class="dark:text-white" ><i class="uil uil-linkedin-alt text-xl dark:text-white"></i></a>
+          <a href="https://github.com/panggihmario" target="_blank" class="dark:text-white" ><i class="uil uil-github-alt text-xl"></i></a>
         </div>
         <div class="md:order-1 md:justify-self-center">
           <svg class="fill-primary w-48 m-auto md:w-72" viewBox="0 0 200 187" xmlns="http://www.w3.org/2000/svg"
