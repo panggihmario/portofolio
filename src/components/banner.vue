@@ -12,7 +12,7 @@
         </div>
         <img 
           class="w-56 justify-self-center"
-          src="src/assets/interface-research.png"  alt="">
+          src="/interface-research.png"  alt="">
       </div>
     </div>
   </section>

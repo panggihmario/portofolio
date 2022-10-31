@@ -80,37 +80,37 @@
         modules: [Navigation, Pagination, Scrollbar, A11y],
         images : [
           {
-            source : 'src/assets/news.jpg',
+            source : 'public/news.jpg',
             title : 'Kipaskipas News',
             description : 'News Website adaptable to all devices, with ui components and animated interactions.',
             link : 'https://news.kipaskipas.com/'
           },
           {
-            source : 'src/assets/listpost.jpg',
+            source : 'public/listpost.jpg',
             title : 'Kipaskipas Admin',
             description : 'Website adaptable to all devices, with ui components and animated interactions.',
             link : 'https://news.kipaskipas.com/'
           },
           {
-            source : 'src/assets/home.jpg',
+            source : 'public/home.jpg',
             title : 'Kipaskipas',
             description : 'Social Media Website adaptable to all devices, with ui components and animated interactions.',
             link : 'https://news.kipaskipas.com/'
           },
           {
-            source : 'src/assets/mom.jpg',
+            source : 'public/mom.jpg',
             title : 'Monggopesen Admin',
             description : 'Website adaptable to all devices, with ui components and animated interactions.',
             link : 'https://news.kipaskipas.com/'
           },
           {
-            source : 'src/assets/monggopesen.jpg',
+            source : 'public/monggopesen.jpg',
             title : 'Monggopesen',
             description : 'E-commerce Website with adaptable to all devices, with ui components and animated interactions.',
             link : 'https://news.kipaskipas.com/'
           },
           {
-            source : 'src/assets/thermo.jpg',
+            source : 'public/thermo.jpg',
             title : 'Landing Page Thermogun',
             description : 'Website adaptable to all devices, with ui components and animated interactions.',
             link : 'https://news.kipaskipas.com/'

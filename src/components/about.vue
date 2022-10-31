@@ -3,7 +3,7 @@
     <div class="text-2xl text-center dark:text-white" >About Me</div>
     <div class="text-sm  text-center dark:text-white mb-10" >My Introduction</div>
     <div class="grid gap-6 md:grid-cols-2">
-      <img class="w-52 md:w-80 rounded-lg justify-self-center self-center" src="src/assets/website-maintenance.png" alt="">
+      <img class="w-52 md:w-80 rounded-lg justify-self-center self-center" src="/public/website-maintenance.png" alt="">
       <div class="grid gap-6 ">
         <p class="text-center text-sm dark:text-white">
           Web developer, with knowledge and experience, working in web technologies and deliver quality work.
