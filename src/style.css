@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.button {
+  display: inline-block;
+  color: #FFF;
+  padding: 1rem;
+  border-radius: .5rem;
+  font-weight: 500;
+  background-color: hsl(47, 88%, 53%);
+}
+
+.button--white {
+  background-color: #FFF;
+  color: hsl(47, 88%, 53%);
+}
+
+.button-icon {
+  font-size: 1.25rem;
+  margin-left: .5rem;
+  transform: .3s;
+}
+
+.active-link {
+  color:hsl(47, 88%, 53%); ;
+}
+
+.scroll-header {
+  box-shadow: 0 -1px 4px rgba(0, 0, 0, .15);
+}
