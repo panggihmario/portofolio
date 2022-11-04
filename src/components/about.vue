@@ -11,7 +11,7 @@
           that consistently delivers the customer/readership base that the website is seeking to attract.  
         </p>
         <div class="flex justify-center">
-          <a href="#contact" class="bg-primary text-white p-4 rounded-lg font-medium block w-fit">
+          <a href="/cv.pdf" download class="bg-primary text-white p-4 rounded-lg font-medium block w-fit">
             Download
             <i class="uil uil-message font-sm ml-2"></i>
           </a>
