@@ -6,7 +6,10 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+
+.vscode
 package-lock.json
+dist
 
 node_modules
 
